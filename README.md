@@ -33,3 +33,14 @@ O desenvolvimento foi dividido em 6 fases incrementais e seus respectivos desafi
 | **Fase 6** | `a_estrela.py`, `desafio6.py` | Programa final com rastro detalhado, teste de regressão, `main()` e outras origens. |
 
 ---
+
+## 🚀 Como rodar
+
+Clone o repositório, entre na pasta e execute o programa principal com Python 3:
+
+git clone [https://github.com/KarenMarroco/astar-romenia.git](https://github.com/KarenMarroco/astar-romenia.git)
+cd astar-romenia
+py a_estrela.py
+
+## ✅ Resultado Esperado
+Ao executar python a_estrela.py, o algoritmo encontra o caminho ótimo conforme a Figura 3.24 do livro-texto:   Caminho encontrado: Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> BucharestCusto real total: 418 km em 4 passosOrdem de expansão: Arad (366) → Sibiu (393) → Rimnicu Vilcea (413) → Fagaras (415) → Pitesti (417) → Bucharest (418)
